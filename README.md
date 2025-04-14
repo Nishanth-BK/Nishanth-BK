@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishanth B K</h1>
-<h3 align="center">Techie interested in Artificial Intelligence, Web Developer and Technology.</h3>
+<h3 align="center">Techie interested in Artificial Intelligence, Web Development and Technology.</h3>
 
 - 🔭 I’m currently working on [Full end website- Online Learning PLatform](https://github.com/Nishanth-BK/Online-Learning-Platform)
 
